@@ -1,0 +1,3 @@
+"singer-one/album-one/very high/french"
+"singer-two/album-two/high/spanish"
+"singer-three/album-three/low/english"
